@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fuhadc
 - 👀 I’m interested in artificial intelligence and iot
 - 🌱 I’m currently learning flutter
-- 📫 fuhadcs@gmail.com
+- 📫 fuhadcs@icloud.com
+- 
 
 <!---
 fuhadc/fuhadc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
