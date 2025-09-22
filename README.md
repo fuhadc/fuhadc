@@ -72,6 +72,7 @@ I love building smart solutions that combine **hardware + software** to solve re
 
 ## 🌐 Connect With Me
 
+- 🌐 Website:   [Muhammed Fuhad](https://mfuhad.xyz)
 - 📧 Email: [fuhadcs@icloud.com](mailto:fuhadcs@icloud.com)  
 - 💼 LinkedIn: [linkedin.com/in/fuhadc](https://linkedin.com/in/fuhadc)  
 - 🔬 ResearchGate: [researchgate.net/profile/Muhammed-Fuhad](https://www.researchgate.net/profile/Muhammed-Fuhad)  
